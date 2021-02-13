@@ -21,6 +21,7 @@
 
 ### Develop Environment   
 Lang/Framework : Java(Jdk 1.8) / spring-boot 2.15, spring-security  
+ORM: JPA
 IDE : Intellij, Goorm IDE      
 Build Tool : Maven 1.1.3    
 Test Framework : junit 4   
