@@ -5,7 +5,7 @@
 
 ### Team
 **GODGDJI**  
-김하늬 (Frontend, Backend)  
+김하늬 (Frontend보조, Backend)  
 강동민 (Backend)  [세종트랙 BE 깃헙](https://github.com/riyenas0925/Sejong_Track_Management)   
 이경은 (Frontend)  [세종트랙 FE 깃헙](https://github.com/2kyung19/Sejong_Track_Management)  
 
